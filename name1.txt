@@ -1,1 +1,1 @@
-kitty main
+kitty 1
